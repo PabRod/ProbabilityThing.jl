@@ -3,6 +3,9 @@ uuid = "ec645e3c-e620-431c-b30f-c34a9c5bfbe6"
 authors = ["Pablo Rodríguez Sánchez <pablo.rodriguez.sanchez@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+
 [compat]
 julia = "1"
 
